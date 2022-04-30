@@ -31,10 +31,4 @@ Javascript, Node.js, Typescript, GraphQL enthusiasm.
 
 <p align="left"> <a href="https://www.github.com/xeusteerapat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eerapat-prommarak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/xeusteerapat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/xeusteerapat"><img src="https://github-readme-stats.vercel.app/api?username=xeusteerapat&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xeusteerapat's GitHub stats" /></a>
-
 created by [profileme](https://www.profileme.dev)
