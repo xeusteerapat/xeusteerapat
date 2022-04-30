@@ -36,9 +36,3 @@ Javascript, Node.js, Typescript, GraphQL enthusiasm.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/xeusteerapat"><img src="https://github-readme-stats.vercel.app/api?username=xeusteerapat&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xeusteerapat's GitHub stats" /></a>
-
-<a href="http://www.github.com/xeusteerapat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xeusteerapat&stroke=facc15&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/xeusteerapat"><img src="https://activity-graph.herokuapp.com/graph?username=xeusteerapat&bg_color=1c1917&color=facc15&line=0891b2&point=facc15&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/xeusteerapat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeusteerapat&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
