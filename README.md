@@ -4,7 +4,7 @@ Hi 👋 My name is Teerapat
 Software Engineer
 -----------------
 
-Node.js, Typescript, React and GraphQL enthusiasm.
+Node.js, Typescript, React enthusiasm.
 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [Github](http://https://github.com/xeusteerapat)
