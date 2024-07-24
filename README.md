@@ -9,7 +9,7 @@ Node.js, Typescript, React enthusiasm.
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [Github](http://https://github.com/xeusteerapat)
 * ✉️  You can contact me at [xeus085@gmail.com](mailto:xeus085@gmail.com)
-* 🧠  I'm learning k8s, Go, Microservices, Distributed System, Software Architecture
+* 🧠  I'm learning k8s, Go, Rust, Kotlin, Microservices, Distributed System, Software Architecture
 
 ### Skills
 
